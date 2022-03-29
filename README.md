@@ -17,4 +17,6 @@ te invito a revisar estas primeras lineas de codigo y ver que otras preguntas te
 
 cualquier duda estamos en el discord:
 
+[canal #datos-mx en discord](https://discord.com/channels/708149634513502362/958453369146576897)
+
 [nu9ve](https://nu9ve.xyz/)
